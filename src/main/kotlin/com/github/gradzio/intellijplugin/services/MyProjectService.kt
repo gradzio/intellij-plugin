@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.gradzio.intellijplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gradzio.intellijplugin.MyBundle
 
 class MyProjectService(project: Project) {
 
